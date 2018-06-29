@@ -1,0 +1,6 @@
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Contracts\bin\Debug\wcfExamples.Contracts.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Contracts\bin\Debug\wcfExamples.Contracts.pdb
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Contracts\obj\Debug\wcfExamples.Contracts.csprojAssemblyReference.cache
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Contracts\obj\Debug\wcfExamples.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Contracts\obj\Debug\wcfExamples.Contracts.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Contracts\obj\Debug\wcfExamples.Contracts.pdb
