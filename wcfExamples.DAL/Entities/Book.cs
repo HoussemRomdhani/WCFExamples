@@ -1,23 +1,11 @@
-﻿using System.Runtime.Serialization;
-
-namespace wcfExamples.Contracts
+﻿namespace wcfExamples.DAL.Entities
 {
-    [DataContract]
-    public class BookData
+    public class Book
     {
-        [DataMember]
         public int Id { get; set; }
-
-        [DataMember]
         public string Title { get; set; }
-
-        [DataMember]
         public string Description { get; set; }
-
-        [DataMember]
         public string Author { get; set; }
-
-        [DataMember]
         public decimal Price { get; set; }
     }
 }
