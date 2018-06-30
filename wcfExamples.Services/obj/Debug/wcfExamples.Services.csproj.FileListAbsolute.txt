@@ -1,0 +1,11 @@
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\bin\Debug\wcfExamples.Services.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\bin\Debug\wcfExamples.Services.pdb
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\bin\Debug\wcfExamples.Contracts.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\bin\Debug\wcfExamples.DAL.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\bin\Debug\wcfExamples.Contracts.pdb
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\bin\Debug\wcfExamples.DAL.pdb
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\obj\Debug\wcfExamples.Services.csprojAssemblyReference.cache
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\obj\Debug\wcfExamples.Services.csproj.CoreCompileInputs.cache
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\obj\Debug\wcfExamples.Services.csproj.CopyComplete
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\obj\Debug\wcfExamples.Services.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.Services\obj\Debug\wcfExamples.Services.pdb

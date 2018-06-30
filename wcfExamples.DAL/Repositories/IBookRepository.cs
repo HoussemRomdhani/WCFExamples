@@ -1,13 +1,14 @@
 ﻿using System.Collections.Generic;
+using wcfExamples.DAL.Entities;
 
 namespace wcfExamples.DAL.Repositories
 {
     public interface IBookRepository
     {
-        BookData GetById(int id);
+        Book GetById(int id);
         IEnumerable<Book> GetAll();
-        void Add(BookData book);
-        void Update(BookData book);
+        void Add(Book book);
+        void Update(Book book);
         void Delete(int id);
     }
 }

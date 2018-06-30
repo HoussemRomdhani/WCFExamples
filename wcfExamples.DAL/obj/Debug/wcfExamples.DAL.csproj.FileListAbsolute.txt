@@ -1,0 +1,5 @@
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.DAL\bin\Debug\wcfExamples.DAL.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.DAL\bin\Debug\wcfExamples.DAL.pdb
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.DAL\obj\Debug\wcfExamples.DAL.csproj.CoreCompileInputs.cache
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.DAL\obj\Debug\wcfExamples.DAL.dll
+C:\Users\houssem\Documents\Visual Studio 2017\Projects\wcfExamples\wcfExamples.DAL\obj\Debug\wcfExamples.DAL.pdb
